@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dumindu YAsith 👋</h1>
+<h1 align="center">Hi there, I'm Dumindu Yasith 👋</h1>
 
 <h3 align="center">A curious student exploring the world of code</h3>
 
